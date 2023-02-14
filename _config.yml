@@ -1,17 +1,13 @@
-title: David Kobalia
-description: David Kobalia's Personal Website
+title: Shikhar Mishra
+description: Shikhar Mishra's Personal Website
 baseurl: ""
 
-username: David Kobalia
-typing_text: Software Engineer / QA Tester
+username: Shikhar Mishra
+typing_text: Machine Learning Engineer / Data Scientist
 
-email: davit.kobalia.1@btu.edu.ge
-telegram_username: in_solitum
-linkedin_username: dkobalia
-github_username: insolitum
-facebook_username: DaWeedGone
-instagram_username: __m.artian__
-viber_number: 995599014780
+email: sm_data@outlook.com
+linkedin_username: shikhar-mishra
+github_username: smishr
 
 show_aboutme_card: false
 about_me_title: About Me
@@ -34,11 +30,11 @@ show_contact_card: true
 contact_title: Contacts
 contact_description: Feel free to contact me wherever is comfortable for you
 
-repository: insolitum/insolitum.github.io
+repository: smishr/smishr.github.io
 github_pages:
   - sorting_algos
   - character_encoder
-  - insolitum.github.io
+  - smishr.github.io
   
 projects:
   sort_by: stars
