@@ -1,30 +1,52 @@
-- title: Exactpro Systems
-  title-url: https://exactpro.com/
-  date: Sep 2021 - Present
-  subtitle: Software Engineer
+- title: XKDR Forum
+  title-url: https://www.xkdr.org/
+  date: Jul 2022 - Present
+  subtitle: Software Developer
   tags:
-    - tag: Python
+    - tag: Julia
+    - tag: R
+    - tag: SQL
     - tag: Git
     - tag: Software Testing
     - tag: Linux
-    - tag: Jira
-    - tag: SQL
-    - tag: Jenkins
-    - tag: Bitbucket
+    - tag: Applied statistics
+    - tag: Bayesian
+    - tag: Time Series
   timeline-side: right
 
-- title: Silknet
-  title-url: https://silknet.com/
-  date: Jun 2020 - Sep 2020
-  subtitle: Troubleshooter
+- title: Dept of Health, Australian Federal Government
+  title-url: https://www.health.gov.au/
+  date: Oct 2021 - Jul 2022, Canberra
+  subtitle: Data Scientist
   tags:
-    - tag: Networking
-    - tag: Communications
-    - tag: Zsmart
+    - tag: Python
+    - tag: ETL
+    - tag: Predictive Analytics
+    - tag: scikit-learn
+    - tag: tensorflow
+    - tag: AWS EC2
+    - tag: SQL
+    - tag: Qlik Sense
+    - tag: SAS
+    - tag: business reporting
+  timeline-side: right
+
+- title: Windlab
+  title-url: https://www.windlab.com
+  date: Jul 2021 - Oct 2021, Canberra
+  subtitle: Research Data Scientist
+  tags:
+    - tag: Python
+    - tag: probabilistic programming
+    - tag: tensorflow-probability
+    - tag: XGBoost
+    - tag: Bayesian statistics
+    - tag: Time Series analysis
+    - tag: simulations
   timeline-side: left
 
-- title: Silknet
-  title-url: https://silknet.com/
+- title: Windlab
+  title-url: https://www.windlab.com
   date: Nov 2019 - Apr 2020
   subtitle: Troubleshooter
   tags:

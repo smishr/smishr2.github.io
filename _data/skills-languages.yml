@@ -1,14 +1,14 @@
 - name: Python
   weight: 5
 
-- name: JS
+- name: R
+  weight: 5
+
+- name: Julia
+  weight: 4
+
+- name: SQL
   weight: 4
 
 - name: C++
-  weight: 4
-
-- name: C
-  weight: 3
-
-- name: Ruby
   weight: 2

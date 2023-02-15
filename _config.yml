@@ -42,7 +42,7 @@ projects:
     archived: true
     forks: true
     projects:
-      - insolitum
+      - smishr
 
 plugins:
   - "jekyll-github-metadata"
