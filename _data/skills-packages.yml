@@ -1,5 +1,38 @@
-- name: Selenium
+- name: Tensorflow
+  weight: 4
+
+- name: Tensorflow-Probability
+  weight: 4
+
+- name: Keras
+  weight: 4
+
+- name: XGBoost
   weight: 5
 
-- name: Allure
+- name: CatBoost
   weight: 4
+
+- name: PyTorch
+  weight: 3
+
+- name: scikit-learn
+  weight: 5
+
+- name: pandas
+  weight: 5
+
+- name: matplotlib
+  weight: 5
+
+- name: numpy
+  weight: 5
+
+- name: scipy
+  weight: 5
+
+- name: Jupyter
+  weight: 5
+
+- name: Seaborn
+  weight: 5
