@@ -23,7 +23,7 @@
   weight: 5
 
 - name: matplotlib
-  weight: 5
+  weight: 4
 
 - name: numpy
   weight: 5
@@ -32,7 +32,7 @@
   weight: 5
 
 - name: Jupyter
-  weight: 5
+  weight: 4
 
 - name: Seaborn
-  weight: 5
+  weight: 3

@@ -6,7 +6,7 @@
   <input type="radio" id="language" name="filter" />
   <label class="filter-button neumorphism-button" for="language">Languages</label>
   <input type="radio" id="Package" name="filter" />
-  <label class="filter-button neumorphism-button" for="Package">Packages</label>
+  <label class="filter-button neumorphism-button" for="Package">Python Packages</label>
   <input type="radio" id="tool" name="filter" />
   <label class="filter-button neumorphism-button" for="tool">Tools</label>
 
@@ -15,7 +15,7 @@
       {{language.name}}
     </div>
   {% endfor %}
-  {% for Package in site.data.skills-Packages %}
+  {% for Package in site.data.skills-pypackages %}
     <div skill-type="Package" skill-weight="{{Package.weight}}" data-aos="zoom-in">
       {{Package.name}}
     </div>
